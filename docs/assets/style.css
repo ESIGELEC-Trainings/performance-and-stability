@@ -34,6 +34,14 @@ ul {
   border-radius: 12px;
   box-shadow: 0 0 30px rgba(0,0,0,0.4);
 }
+.content-wrapper {
+   max-width: 900px;
+   margin: auto;
+   padding: 40px;
+   background: #252525;
+   border-radius: 12px;
+}
+
 
 /* ================================
    🟦 CARDS / BLOCS
