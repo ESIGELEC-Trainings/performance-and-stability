@@ -1,0 +1,75 @@
+/* ================================
+   🌙 DARK THEME GLOBAL
+   ================================ */
+
+body {
+  background-color: #1e1e1e !important;
+  color: #e6e6e6 !important;
+  font-family: "Segoe UI", Roboto, sans-serif;
+  line-height: 1.6;
+  padding: 0 20px;
+}
+
+a {
+  color: #6ca9ff !important;
+}
+
+h1, h2, h3, h4 {
+  color: #dcdcff !important;
+  font-weight: 600;
+}
+
+ul {
+  margin-left: 20px;
+}
+
+/* ================================
+   🟥 CONTENT WRAPPER (centrage + largeur)
+   ================================ */
+.content {
+  max-width: 900px;
+  margin: auto;
+  padding: 40px 20px;
+  background-color: #252525;
+  border-radius: 12px;
+  box-shadow: 0 0 30px rgba(0,0,0,0.4);
+}
+
+/* ================================
+   🟦 CARDS / BLOCS
+   ================================ */
+.block {
+  padding: 20px;
+  background-color: #2f2f2f;
+  border-left: 5px solid #4e88ff;
+  border-radius: 8px;
+  margin: 20px 0;
+}
+
+/* ================================
+   🟧 TABLES AMÉLIORÉES
+   ================================ */
+table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+table th, table td {
+  border: 1px solid #444;
+  padding: 10px;
+}
+
+table th {
+  background-color: #333;
+  color: #fff;
+}
+
+/* ================================
+   🟩 CODE BLOCKS
+   ================================ */
+pre, code {
+  background-color: #111 !important;
+  color: #4effc0 !important;
+  padding: 8px;
+  border-radius: 6px;
+}
