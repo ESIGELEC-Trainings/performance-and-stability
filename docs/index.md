@@ -4,7 +4,8 @@
 ### _Style pédagogique, visuel et orienté ingénieur logiciel_
 
 <link rel="stylesheet" href="assets/style.css">
-<div class="content">
+
+<div class="content-wrapper">
 
 ---
 
